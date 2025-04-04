@@ -38,6 +38,12 @@ I engineer secure automation. From privileged access to dashboards, I simplify c
 ### 🛠 Tech I Trust
 `CyberArk` • `PowerShell` • `Power BI` • `AWS` • `Windows Server` • `Active Directory`
 
+### 🧪 Featured Project
+
+[🔗 Web Starter Kit](https://github.com/Get-PrivilegedLogic/web-starter-kit)  
+A minimal HTML/CSS/JS dev playground with live reload and zero setup.
+
+
 ---
 
 ### ☕ Fuel the Logic
