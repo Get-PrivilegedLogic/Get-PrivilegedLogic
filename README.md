@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LogsAndSarcasm/Get-PrivilegedLogic/main/privilegedlogic_banner.png" alt="PrivilegedLogic Banner" />
+  <img src="https://raw.githubusercontent.com/Get-PrivilegedLogic/Get-PrivilegedLogic/main/privilegedlogic_banner.png" alt="PrivilegedLogic Banner" />
 </p>
 
 <p align="center">
